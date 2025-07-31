@@ -48,3 +48,4 @@
         location / {
             try_files $uri $uri/ /index.php?$query_string;
         }
+## 暂未开源，综合考虑在未来的某一天会发布！
